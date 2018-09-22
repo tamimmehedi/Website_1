@@ -1,0 +1,5 @@
+In this project,we will need 3 types of files:-
+1. Python
+2.HTML
+3.CSS
+We will connect those files.
